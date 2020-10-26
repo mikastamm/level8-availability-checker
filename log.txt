@@ -1,0 +1,14 @@
+{ startTimeHour: '16', month: 'Oktober', day: '29' }
+Days found: 35
+Found target date
+10:00
+10:15
+13:00
+13:15
+16:00
+Date not available :(
+16:15
+Date not available :(
+19:00
+19:15
+Duration: 4542.668ms
